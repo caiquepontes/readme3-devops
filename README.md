@@ -14,3 +14,5 @@ baixar os arquivos do git e rodar o container:
 docker run -p 5001:5000 -d python-hello-world
 
 
+http://localhost:5001
+

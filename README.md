@@ -7,7 +7,7 @@ Desafio readme3 devops
 
 - Configure um nginx que sirva o retorno da aplicação ao receber um GET.
 
-
+#########################################################################################
 
 baixar os arquivos do git e rodar o container:
 
